@@ -1,0 +1,38 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-image: linear-gradient(to right top, goldenrod, blueviolet, darkviolet, cyan);
+}
+
+.header_div {
+    background-color: rgb(0, 255, 229);
+    color: rgb(211, 169, 0);
+}
+
+.header_div p {
+    font-family: 'Macondo', cursive;
+    color: blueviolet;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Macondo', cursive ; 
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(86, 226, 43);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: indigo;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black
+}
